@@ -2,7 +2,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Deal! ebay values for marketplace Germany/77',
-	'description' => 'Import the needed ebay values for the German marketplace! Import is done while enabling this extension. Values are needed by Deal! See: https://typo3-deal.de/typo3conf/ext/deal_ebay_000_us/doc/manual.pdf',
+	'description' => 'Import the needed ebay values for the German marketplace! Import is done while enabling this extension. Values are needed by Deal! See: http://typo3-deal.de/typo3conf/ext/deal_ebay_000_us/doc/manual.pdf',
 	'category' => 'be',
 	'shy' => 0,
 	'version' => '0.1.0',
