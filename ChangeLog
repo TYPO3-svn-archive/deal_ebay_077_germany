@@ -1,3 +1,13 @@
+1.0.0
+  2014-10-12
+  Improvemnet
+  * #i0004: Update for TYPO3 6.2
+
+0.1.2
+  2014-10-02
+  Bugfix
+  * #i0004: Description ext_emconf.php
+
 0.1.1
   2014-03-25
   Improvement
